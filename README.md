@@ -1,4 +1,9 @@
 # Stop_watch
-Basic stop watch with start , stop and reset button that counts time in mili second also
-Created using html ,css , js
+Go to setting of this repo
+Select paging
+from there you can use this projct
+
+# To download
+Copy url of index.html
+it is ready to run in your system
 
