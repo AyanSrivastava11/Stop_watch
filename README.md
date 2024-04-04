@@ -11,7 +11,7 @@ Stopwatch is a simple web-based stopwatch application that allows users to measu
 
 ## Demo
 
-You can see a live demo of the Stopwatch [here](link-to-demo).
+You can see a live demo of the Stopwatch  https://ayansrivastava11.github.io/Stop_watch/
 
 ## Usage
 
